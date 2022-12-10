@@ -1,6 +1,9 @@
 # Project 5
 This project will be focused on creating a randomly generated maze using Assembly code. Focuses heavily on recursion and stack frames.
 
+## Chris' Project Addition
+I am adding the recursive function to the maze project
+
 ## Licensing 
 MIT License in use
 
